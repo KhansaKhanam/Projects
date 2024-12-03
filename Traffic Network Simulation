@@ -1,1 +1,0 @@
-This project leverages deep reinforcement learning (DRL) and real-time vehicular network data, simulated in SUMO, to optimize traffic signal control. Unlike traditional fixed-duration methods, our approach models intersections as grids, using advanced techniques like DQN, A2C, and PER to improve traffic flow, reduce delays, and enable adaptive traffic management.
