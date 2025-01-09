@@ -1,11 +1,12 @@
-Pregnancy Tracker AI Project: Workflow for Detecting Abnormalities in 1st, 2nd, and 3rd Trimesters
-Overview
+# Pregnancy Tracker AI Project: Workflow for Detecting Abnormalities in 1st, 2nd, and 3rd Trimesters
+
+## Overview
 The Pregnancy Tracker AI Project is designed to help detect abnormalities across all three trimesters of pregnancy using computer vision and object detection techniques. By leveraging ultrasound and other imaging data, the AI will analyze and track fetal and maternal health throughout the pregnancy journey, detecting any potential issues such as growth restrictions, abnormal positioning, or other medical concerns. This will assist healthcare professionals in making timely decisions for better prenatal care.
 Project Objective
 AI-based detection: Use computer vision techniques to automatically analyze ultrasound images (or any other medical imaging) to detect abnormalities in different stages of pregnancy.
 Trimesters focus: The project focuses on the 1st, 2nd, and 3rd trimesters to identify issues at various stages of pregnancy.
 
-Project Workflow
+## Project Workflow
 1. Data Collection
 The first step involves gathering a large dataset of ultrasound and medical imaging data. This data will include images for each trimester of pregnancy and will be annotated by medical professionals to label abnormalities (e.g., growth issues, fetal position, maternal health abnormalities, etc.).
 Steps:
@@ -68,7 +69,7 @@ Monitoring: Continuously track the performance of the AI system in detecting abn
 Data updates: Keep collecting new ultrasound data and annotations for retraining the model.
 Model retraining: Periodically retrain the model with the updated dataset to improve its performance and accuracy.
 
-Summary of Key Components
+## Summary of Key Components
 1. Data Collection:
 Ultrasound and medical imaging data from all three trimesters.
 Annotated with expert labels for abnormalities.
@@ -86,6 +87,6 @@ Integration with medical tools, easy to use for doctors, ensuring real-time avai
 7. Monitoring:
 Continuous updates and retraining to improve model accuracy.
 
-Conclusion
+## Conclusion
 The Pregnancy Tracker AI Project is designed to revolutionize prenatal care by leveraging AI for early detection of abnormalities. This workflow emphasizes the importance of a well-organized and thorough process, from data collection and model training to deployment and continuous improvement. By detecting abnormalities early in each trimester, healthcare professionals can provide better care, ultimately improving maternal and fetal health outcomes.
 
